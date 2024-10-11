@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **akshaybharadwaj.solutions@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S7Hn9YQcyeWIRPPj7Tr0Pc5o5pZq8M6e/view?usp=drive_link](https://drive.google.com/file/d/1S7Hn9YQcyeWIRPPj7Tr0Pc5o5pZq8M6e/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
