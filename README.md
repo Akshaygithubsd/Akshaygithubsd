@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay </h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Gen AI Projects**
 
-- 🌱 I’m currently learning **Jetpack Compose, XML,KOTLIN, Firebase, Machine Learning**
+- 🌱 I’m currently learning **Jetpack Compose, XML,KOTLIN, Firebase, React Native**
 
 - 📫 How to reach me **akshaybharadwaj.solutions@gmail.com**
 
