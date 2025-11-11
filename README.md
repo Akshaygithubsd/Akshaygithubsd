@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshay_1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_1232" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshay_bharadwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay_bharadwaj" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/akshaybharadwaj770/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshaybharadwaj770" height="30" width="40" /></a>
 </p>
 
@@ -60,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
 
-  <!-- ✅ WORKING AWS LOGO -->
+  <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -108,5 +107,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaygithubsd&show_icons=true&locale=en" alt="akshaygithubsd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaygithubsd&" alt="akshaygithubsd" /></p>
-
-![](https://leetcard.jacoblin.cool/Akshay_bharadwaj?ext=heatmap)
